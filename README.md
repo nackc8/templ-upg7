@@ -16,4 +16,6 @@ Show how to:
 
 Explain in your own words what these "objects" are that PowerShell uses? How is it different to Bash?
 
+Keep it short, try not to exceed three or four sentences.
+
 - [ ] Save your explanation in a text file
